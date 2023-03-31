@@ -1,2 +1,2 @@
 # django
-sangat amat tidak dimengerti
+seperti itu
